@@ -1,0 +1,14 @@
+.footer{
+    margin-top: 50px;
+    height: 350px;
+    background: black;
+    padding: 15px;
+}
+.footpara{
+    color: white;
+    padding: 20px;
+}
+.footicon{
+    color: white;
+    margin-left: 20px;
+}
